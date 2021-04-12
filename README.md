@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tomodo531
+- 👋 Hi, I’m @Tomodo531 or Martin a programming student from Copenhagen
 - 👀 I’m interested in C#, Javascript, React.js, Node.js, Express.js and MongoDB
 - 🌱 I’m currently learning C#/ASP.NET Core
 
