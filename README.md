@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tomodo531 or Martin a programming student from Copenhagen
-- 👀 I’m interested in C#, Javascript, React.js, Node.js, Express.js and MongoDB
-- 🌱 I’m currently learning C#/ASP.NET Core
+- 👀 I’m interested in PHP, Laravel, Javascript, React.js, Node.js, Express.js and MongoDB
+- 🌱 I’m currently learning PHP and Laravel
 
 <!---
 Tomodo531/Tomodo531 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
