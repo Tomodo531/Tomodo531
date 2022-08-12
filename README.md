@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tomodo531 or Martin a programming student from Copenhagen
+- 👋 Hi, I’m @Tomodo531 or Martin a Backend Developer from Copenhagen
 - 👀 I’m interested in PHP, Laravel, Javascript, React.js, Node.js, Express.js and MongoDB
 - 🌱 I’m currently learning PHP and Laravel
 
